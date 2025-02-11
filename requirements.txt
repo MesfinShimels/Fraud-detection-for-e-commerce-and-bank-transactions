@@ -1,14 +1,35 @@
-pandas
+# Core dependencies
 numpy
+pandas
+scikit-learn
 matplotlib
 seaborn
-scikit-learn
+
+# Machine Learning models
+xgboost
+lightgbm
+
+# Deep Learning
 tensorflow
-keras
-flask
-mlflow
+torch
+
+# Model Explainability
 shap
 lime
+
+# API & Web Framework
+flask
+flask-restful
+flask-cors
+
+# Dashboard
 dash
-plotly
-requests
+dash-bootstrap-components
+
+# Database & Storage
+sqlalchemy
+psycopg2
+
+# Environment & Logging
+python-dotenv
+logging
